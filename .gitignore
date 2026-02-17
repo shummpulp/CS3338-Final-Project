@@ -1,0 +1,17 @@
+# files
+
+#All log files
+*.log
+
+#User Manual
+/User_Manual/
+
+#All Styles.css
+**/styles.css
+# Any files with a '-' 
+*-*
+#SDD and SRS files besides final version
+**SDD_v
+**SRS_v
+#Any read me not in root directory
+/README.md/
